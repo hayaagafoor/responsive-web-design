@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background: #eef6fb;
+  color: #222;
+  line-height: 1.6;
+}
+
+#main {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+  text-align: center;
+  color: #003366;
+}
+
+#img-div {
+  text-align: center;
+  margin: 30px 0;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#img-caption {
+  font-style: italic;
+  margin-top: 10px;
+  color: #345678;
+}
+
+#tribute-info p {
+  margin-bottom: 16px;
+}
+
+.external-link {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+}
